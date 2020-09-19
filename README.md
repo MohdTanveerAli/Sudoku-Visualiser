@@ -8,4 +8,5 @@ Features Implemented :
 4. Options: Reset, Clear game
 
 Languages Used: Python
+
 Note :Pygame Library must be preinstalled
