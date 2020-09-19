@@ -1,13 +1,11 @@
 # Sudoku-Visualiser
 
-Features Implemented :
-<html>
-  <body>
-<li>
-  <ul>Game Interface to Play</ul>
-  <ul>Auto solving</ul>
-  <ul>Visualization of auto solving i.e., Backtracking Algorithm visualization</ul>
-  <ul>Options: Reset, Clear game</ul>
-  </li>
-  </body>
-  </html>
+Features Implemented : 
+
+1. Game Interface to Play
+2. Auto solving
+3. Visualization of auto solving i.e., Backtracking Algorithm visualization
+4. Options: Reset, Clear game
+
+Languages Used: Python
+Note :Pygame Library must be preinstalled
